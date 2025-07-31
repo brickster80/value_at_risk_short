@@ -11,7 +11,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC # Value at risk - test
+# MAGIC # Value at risk - test--22
 # MAGIC
 # MAGIC **Modernizing risk management practice**: *Traditional banks relying on on-premises infrastructure can no longer effectively manage risk. Banks must abandon the computational inefficiencies of legacy technologies and build an agile Modern Risk Management practice capable of rapidly responding to market and economic volatility. Using value-at-risk use case, you will learn how Databricks is helping FSIs modernize their risk management practices, leverage Delta Lake, Apache Spark and MLFlow to adopt a more agile approach to risk management.*
 # MAGIC
